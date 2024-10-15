@@ -1,4 +1,13 @@
 ## Hi there 👋
+학습용 Github 계정입니다.
+
+### Algorithm
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hbkim14)](https://solved.ac/hbkim14/)
+
+### Languages
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panggin&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
+</a>
 
 <!--
 **panggin/panggin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
