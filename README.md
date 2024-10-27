@@ -1,5 +1,4 @@
 ## Hi there 👋
-학습용 Github 계정입니다.
 
 <div style="display: flex; justify-content: space-between;">
   <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hbkim14" />
