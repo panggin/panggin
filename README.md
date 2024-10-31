@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display: flex; justify-content: space-between;">
-  <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hbkim14" />
+<!--   <img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hbkim14" /> -->
   <a align="right" href="s">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=panggin&exclude_repo=dkssud8150.github.io&layout=compact&theme=vue" />
   </a>
